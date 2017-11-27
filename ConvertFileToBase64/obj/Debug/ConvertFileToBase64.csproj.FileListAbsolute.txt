@@ -1,0 +1,10 @@
+C:\Users\LT5244\source\repos\ConvertFileToBase64\ConvertFileToBase64\bin\Debug\ConvertFileToBase64.exe.config
+C:\Users\LT5244\source\repos\ConvertFileToBase64\ConvertFileToBase64\bin\Debug\ConvertFileToBase64.exe
+C:\Users\LT5244\source\repos\ConvertFileToBase64\ConvertFileToBase64\bin\Debug\ConvertFileToBase64.pdb
+C:\Users\LT5244\source\repos\ConvertFileToBase64\ConvertFileToBase64\obj\Debug\ConvertFileToBase64.csprojResolveAssemblyReference.cache
+C:\Users\LT5244\source\repos\ConvertFileToBase64\ConvertFileToBase64\obj\Debug\ConvertFileToBase64.Form1.resources
+C:\Users\LT5244\source\repos\ConvertFileToBase64\ConvertFileToBase64\obj\Debug\ConvertFileToBase64.Properties.Resources.resources
+C:\Users\LT5244\source\repos\ConvertFileToBase64\ConvertFileToBase64\obj\Debug\ConvertFileToBase64.csproj.GenerateResource.Cache
+C:\Users\LT5244\source\repos\ConvertFileToBase64\ConvertFileToBase64\obj\Debug\ConvertFileToBase64.csproj.CoreCompileInputs.cache
+C:\Users\LT5244\source\repos\ConvertFileToBase64\ConvertFileToBase64\obj\Debug\ConvertFileToBase64.exe
+C:\Users\LT5244\source\repos\ConvertFileToBase64\ConvertFileToBase64\obj\Debug\ConvertFileToBase64.pdb
